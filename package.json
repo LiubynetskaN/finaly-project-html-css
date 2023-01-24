@@ -2,10 +2,10 @@
   "name": "ice-cream-lucky-7",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://akarpenko83.github.io/ice-cream-lucky-7/",
+  "homepage": "https://LiubynetskaN.github.io/finaly-project-html-css/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /ice-cream-lucky-7/"
+    "build": "parcel build src/*.html --public-url /finaly-project-html-css/"
   },
   "repository": {
     "type": "git",
